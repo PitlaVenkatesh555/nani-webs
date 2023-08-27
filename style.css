@@ -3,8 +3,12 @@
     padding: auto;
     
   }
+  .background{
+    background-color: #0077b3;
+  }
 .menu-bar{
     position:fixed;
     background-color:#5d89bb;
     background-size: cover;
+
 }
