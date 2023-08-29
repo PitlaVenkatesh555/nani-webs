@@ -12,7 +12,7 @@
     color: #8d45ba;
 }
 .menu{
-    position:absolute;
+    position:fixed;
     top: 500px;
 }
 
