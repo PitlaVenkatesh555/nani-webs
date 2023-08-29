@@ -3,17 +3,17 @@
     padding: auto;
     
   }
-  .background{
+.background{
     background-color: #0077b3;
     position:fixed;
     top: 0px;
-    right: 0px;
+    right: 150px;
     left: 0px;
   }
 .menu-bar{
     background-color:#673c9b;
     color: #8d45ba;
-}
+ }
 .menu{
     position:relative;
 }
