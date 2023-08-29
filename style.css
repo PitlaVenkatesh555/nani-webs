@@ -1,5 +1,5 @@
-body{
-  position: absolute;
+.body{
+  position:relative;
 }
 .background{
     background-color: #5b3b82;
