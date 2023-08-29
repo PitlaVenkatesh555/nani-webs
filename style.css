@@ -1,3 +1,6 @@
+body{
+  position: absolute;
+}
 .background{
     background-color: #0077b3;
     position:fixed;
