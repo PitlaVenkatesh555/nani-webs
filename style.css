@@ -8,10 +8,12 @@
   }
 .menu-bar{
     position:fixed;
-    background-color:#5d89bb;
-    
-    
-
+    background-color:#673c9b;
+    color: #8d45ba;
+}
+.menu{
+    position:absolute;
+    top: 500px;
 }
 
    
